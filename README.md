@@ -2,10 +2,6 @@
 
 A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript as part of **The Odin Project** Full Stack JavaScript curriculum.
 
-## Live Demo
-
-🔗 
-
 
 ## Features
 
